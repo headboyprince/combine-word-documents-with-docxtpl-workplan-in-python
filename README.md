@@ -1,5 +1,7 @@
 # combine-word-documents-with-docxtpl-workplan-in-python
-Need To Create 100’s Of Workplan (word) Documents Automatically?This article will show you how to create multiple docx documents at once at the click of a finger using python Before we begin, you have to install the required package with pip in your favorite IDE.
+Need To Create 100’s Of Workplan (word) Documents Automatically?
+This article will show you how to create multiple docx documents at once at the click of a finger using python.
+
 
 ## Installation
 
@@ -8,12 +10,16 @@ To follow this project, go to your terminal or command line and type in.
 ```python3
 pip install docxtpl
 ```
+
+
 ##  Default workplan template
 
 Our default workplan template will look like this.
-  
+
 
 ![my_workplan_template](https://user-images.githubusercontent.com/22924800/195295668-7a172b9d-8694-43e8-9c9f-aee0dc6ac87a.png)
+
+
 
 ## DEFAULT CODE using our default workplan template
 
@@ -26,6 +32,9 @@ doc.render(context)
 doc.save("generated_doc.docx")
 ```
 
+
+
+
 ## Real World Sample Usage 
 
 ```
@@ -37,19 +46,28 @@ doc.render(context)
 doc.save("hash_workplan_doc.docx")
 ```
 
+
+
 ### The result - Real World Sample Usage
 
 ![hash_workplan_doc docx](https://user-images.githubusercontent.com/22924800/195303101-618ff424-89b5-4322-90d8-dbdbaac013db.png)
 
 
-# CREATING 200 WORKPLANS AT ONCE USING A CSV FILE
+## CREATING 200 WORKPLANS AT ONCE USING A CSV FILE
 
-## CSV file will look like this
+
+
+
+**CSV file will look like this**
 ![csv file workplan template](https://user-images.githubusercontent.com/22924800/195306289-7974a53b-bca9-4b11-afa7-56abb60a21d4.png)
 
 
-## workplan template will look like this
+**workplan template will look like this**
 ![200 csv documents](https://user-images.githubusercontent.com/22924800/195309098-36a14f34-88bf-4286-99dd-aa9e5a78e267.png)
+
+
+
+
 
 # our 200 workplan done automatically with python….
 
