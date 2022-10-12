@@ -1,0 +1,10 @@
+# Default workplan template
+
+```
+from docxtpl import DocxTemplate
+
+doc = DocxTemplate("my_workplan_template.docx")
+context = {'workplan_number': "100", 'name':"John", 'location':"london"}
+doc.render(context)
+doc.save("hash_workplan_doc.docx")
+```
