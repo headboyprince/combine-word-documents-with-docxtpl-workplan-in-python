@@ -78,10 +78,10 @@ doc.save("hash_workplan_doc.docx")
 
 # 200 workplan done automatically with python….
 
-<img src="https://user-images.githubusercontent.com/22924800/195309475-0c86d8a9-5251-4b00-b3c2-9c9025af56a5.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/22924800/195309475-0c86d8a9-5251-4b00-b3c2-9c9025af56a5.png" width=20% height=20%>
 
 
-<img src="https://user-images.githubusercontent.com/22924800/195309545-0b6daef4-d871-44b6-af40-4ab856a2a0d2.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/22924800/195309545-0b6daef4-d871-44b6-af40-4ab856a2a0d2.png" width=20% height=20%>
 
 
 
