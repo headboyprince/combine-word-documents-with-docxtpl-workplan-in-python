@@ -53,13 +53,14 @@ doc.save("hash_workplan_doc.docx")
 ![hash_workplan_doc docx](https://user-images.githubusercontent.com/22924800/195303101-618ff424-89b5-4322-90d8-dbdbaac013db.png)
 
 
-# CREATING 200 WORKPLANS AT ONCE USING A CSV FILE
+## CREATING 200 WORKPLANS AT ONCE USING A CSV FILE
 
 
 
 
 **CSV file will look like this**
 ![csv file workplan template](https://user-images.githubusercontent.com/22924800/195306289-7974a53b-bca9-4b11-afa7-56abb60a21d4.png)
+<img src="https://user-images.githubusercontent.com/22924800/195306289-7974a53b-bca9-4b11-afa7-56abb60a21d4.png" width=50% height=50%>
 
 
 **workplan template will look like this**
