@@ -59,12 +59,19 @@ doc.save("hash_workplan_doc.docx")
 
 
 **CSV file will look like this**
-!csv file workplan template
+
+
 <img src="https://user-images.githubusercontent.com/22924800/195306289-7974a53b-bca9-4b11-afa7-56abb60a21d4.png" width=50% height=50%>
+
+!csv file workplan template
 
 
 **workplan template will look like this**
-![200 csv documents](https://user-images.githubusercontent.com/22924800/195309098-36a14f34-88bf-4286-99dd-aa9e5a78e267.png)
+
+
+
+<img src="https://user-images.githubusercontent.com/22924800/195309098-36a14f34-88bf-4286-99dd-aa9e5a78e267.png" width=50% height=50%>
+200 csv documents
 
 
 
